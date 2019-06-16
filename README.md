@@ -9,5 +9,5 @@ Live link here: [UFO Sightings](http://)
 
 Preview of page below:
 
-![WebsiteScreenShot](/Images)
+![WebsiteScreenShot](/static/images/WebsiteScreenShot.png)
 
